@@ -1,6 +1,7 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 // Import JSZip to handle client-side folder bundling directly inside browser RAM
 import JSZip from 'jszip';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   // ----------------------------------------------------
@@ -578,6 +579,7 @@ export default function App() {
         </main>
       )}
 
+      <Analytics />
     </div>
   );
 }
