@@ -3,6 +3,14 @@ By – Ayush Agarwal
 
 [Yes, this PRD is completely written by a human, so you should read it, it is not AI slop]
 
+## Try the tool yourself - 
+
+https://resume-bucket-tool-ayush.vercel.app/
+
+
+![alt text](public/image.png)
+![alt text](public/image-1.png)
+
 ## The incident that gave me user insight on this invention –
  I was sorting resumes for an Indian giant company, I was marking red green orange yellow on a excel sheet itself, and realized that it was a time taking process. High user friction inspired me to think of a better UX for this problem. (These were resumes which had passed the ATS screening, and needed human check to decide whom to interview).
 

@@ -389,7 +389,7 @@ export default function App() {
                 {/* Support Disclaimer */}
                 <div className="bg-slate-50/80 border border-slate-200/60 rounded-xl p-3 max-w-2xl">
                   <p className="text-xs text-slate-600 font-medium leading-relaxed">
-                    <span className="font-bold text-emerald-700">Support This Project:</span> If you enjoy using this application, please consider giving a star on the github repo !
+                    <span className="font-bold text-emerald-700">Support This Project:</span> If you enjoy using this application, please consider giving a star on the github repo ( https://github.com/ayush-agarwal-0502/resume-bucket-tool-ayush ) !
                   </p>
                 </div>
 
