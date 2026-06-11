@@ -7,8 +7,13 @@ By – Ayush Agarwal
 
 https://resume-bucket-tool-ayush.vercel.app/
 
+Homepage - 
 
 ![alt text](public/image.png)
+
+
+Resume sorting page - 
+
 ![alt text](public/image-1.png)
 
 ## The incident that gave me user insight on this invention –
