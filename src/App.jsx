@@ -303,7 +303,7 @@ export default function App() {
               </div>
               <h3 className="text-sm font-bold text-slate-900 mb-1.5">Upload Resumes</h3>
               <p className="text-slate-600 text-xs leading-relaxed">
-                Drop your batch of PDFs. Your resumes stay completely on your device—processing happens inside your browser, so your candidate data is 100% private.
+                Drop in a batch of PDF resumes. Everything stays on your device—processing happens entirely in your browser, keeping candidate data 100% private.
               </p>
             </div>
 
@@ -311,9 +311,9 @@ export default function App() {
               <div className="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-700 flex items-center justify-center font-bold font-mono text-sm mb-3.5 border border-emerald-100">
                 2
               </div>
-              <h3 className="text-sm font-bold text-slate-900 mb-1.5">Bucket via Hotkeys</h3>
+              <h3 className="text-sm font-bold text-slate-900 mb-1.5">Review & Sort Quickly</h3>
               <p className="text-slate-600 text-xs leading-relaxed">
-                Read candidate files on a clean screen side-by-side with sorting options. Use rapid keystrokes (<span className="font-mono font-bold text-emerald-600">Q, W, E, R</span>) to instantly separate them.
+                View resumes in a distraction-free interface and assign candidates to custom categories using keyboard shortcuts (Q, W, E, R) for fast screening.
               </p>
             </div>
 
@@ -321,9 +321,9 @@ export default function App() {
               <div className="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-700 flex items-center justify-center font-bold font-mono text-sm mb-3.5 border border-emerald-100">
                 3
               </div>
-              <h3 className="text-sm font-bold text-slate-900 mb-1.5">Get Summary Data</h3>
+              <h3 className="text-sm font-bold text-slate-900 mb-1.5">Export Results</h3>
               <p className="text-slate-600 text-xs leading-relaxed">
-                Add evaluation notes cleanly as you review. Download an organized ZIP file containing cleanly sorted folders and an exportable `.csv` tracking spreadsheet.
+                Add notes while reviewing. Download a ZIP file containing organized candidate folders and an Excel sheet with your decisions and comments.
               </p>
             </div>
 
